@@ -7080,7 +7080,7 @@ var config = {
     },
     "layers": [{
       "name": "percelen",
-      "url": "https://geodata.nationaalgeoregister.nl/kadastralekaart/wms/v4_0?",
+      "url": "https://service.pdok.nl/kadaster/kadastralekaart/wms/v5_0?",
       "layerName": "kadastralekaart"
     }, {
       "name": "gebouwen",
